@@ -1,0 +1,11 @@
+15
+Asymbolwithareallylongname
+100
+Three
+104
+1000
+1005001
+0
+Fa
+16
+One
